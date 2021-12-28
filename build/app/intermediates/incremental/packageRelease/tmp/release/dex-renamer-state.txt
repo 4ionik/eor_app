@@ -1,0 +1,4 @@
+#Tue Nov 23 14:20:34 CST 2021
+base.0=/Users/4ionik/StudioProjects/eor_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

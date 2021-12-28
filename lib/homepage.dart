@@ -1,6 +1,5 @@
 import 'package:EOR/ui/widgets/connection_faild.dart';
 import 'package:EOR/ui/widgets/network_sensitive.dart';
-import 'package:EOR/ui/widgets/watcher_toolbar.dart';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/platform_interface.dart';
 import 'package:webview_flutter/webview_flutter.dart';
